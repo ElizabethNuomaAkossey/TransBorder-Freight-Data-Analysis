@@ -14,7 +14,7 @@ The main objective of this project is to analyze the transportation data provide
 
 -  Evaluate transportation safety: Investigate safety incidents related to freight, understand their causes, and propose improvements to safety protocols.
 
--Examine the impact of economic disruptions: Analyze how factors like trade changes, policy shifts, or global events affect freight movements and transportation efficiency.
+- Examine the impact of economic disruptions: Analyze how factors like trade changes, policy shifts, or global events affect freight movements and transportation efficiency.
 
 # 3. Project Phases Using the Cross-Industry Standard Process for Data Mining (CRISP-DM) Methodology
 
@@ -28,7 +28,8 @@ The dataset spans freight border data from 2020 to 2024, coming in zipped files 
 - Data Cleaning: Duplicate records were removed, and missing values were handled carefully. Missing values in columns like MEXSTATE and CANPROV were small (7%), so they were dropped. Missing DF column values were filled using the mode based on USASTATE grouping.
 
 - Outlier Handling: Outliers in numerical variables (SHIPWEIGHT, FREIGHT CHARGES, and VALUE) were identified using boxplots and addressed through log transformation to ensure more accurate analysis.
-Data Type Adjustment: Data types were modified as needed to ensure compatibility for analysis.
+  
+- Data Type Adjustment: Data types were modified as needed to ensure compatibility for analysis.
 
 ## d. Modeling
 Exploratory Data Analysis (EDA) was conducted in several steps:
