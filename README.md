@@ -18,6 +18,9 @@ The main objective of this project is to analyze the transportation data provide
 
 # 3. Project Phases Using the Cross-Industry Standard Process for Data Mining (CRISP-DM) Methodology
 
+![image](https://github.com/user-attachments/assets/c178d888-429c-40b0-90ca-39f510155a95)
+
+
 ## a. Business Understanding
 The goal was to explore the challenges faced by transborder freight systems and understand how factors like congestion and inefficiency impact the movement of goods between the U.S., Canada, and Mexico. With rising trade volumes and strained infrastructure, optimizing these systems is critical for economic growth.
 
