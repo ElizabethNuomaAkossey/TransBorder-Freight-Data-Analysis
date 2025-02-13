@@ -48,4 +48,4 @@ Insights from the EDA and hypothesis testing helped identify key inefficiencies 
 Recommendations were made to improve the system's throughput, reduce environmental impact, and enhance safety protocols based on the analysis.
 
 ## 🚀 Deployment
-The final insights and recommendations were aimed at informing strategies to optimize transborder freight systems. These included improving infrastructure, streamlining customs processes, reducing emissions, and enhancing safety measures to ensure smoother trade flow between the U.S., Canada, and Mexico.
+The final insights and recommendations were aimed at informing strategies to optimize transborder freight systems. These included improving infrastructure, streamlining customs processes, reducing emissions, and enhancing safety measures to ensure smoother trade flow between the U.S.A, Canada, and Mexico.
