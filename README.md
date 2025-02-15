@@ -26,7 +26,7 @@ The CRISP-DM framework is a structured approach used to analyze transborder frei
 The goal was to explore the challenges faced by transborder freight systems and understand how factors like congestion and inefficiency impact the movement of goods between the U.S., Canada, and Mexico. With rising trade volumes and strained infrastructure, optimizing these systems is critical for economic growth.
 
 ## 📊 Data Understanding
-The dataset spans freight border data from 2020 to 2024, coming in zipped files with monthly folders containing CSV files (dot1, dot2, dot3, and YTD). The data had various complexities such as duplicates, missing values in specific columns, and varying file structures. We created three main dataframes by concatenating all dot1, dot2, and dot3 files across months and years to maintain consistency.
+The dataset spans freight border data from 2020 to 2024, coming in zipped files with monthly folders containing CSV files (dot1, dot2, dot3, and YTD). The data had various complexities such as duplicates, missing values in specific columns, and varying file structures. We created three main dataframes by concatenating all dot1, dot2, and dot3 files across months and years to maintain consistency. Find access to the data [https://drive.google.com/drive/folders/1BnQiSR-ZPkEOnyLeknRREp5cSoMkFaXu?usp=sharing]
 
 ## 🛠️ Data Preparation
 - Data Cleaning: Duplicate records were removed, and missing values were handled carefully. Missing values in columns like MEXSTATE and CANPROV were small (7%), so they were dropped. Missing DF column values were filled using the mode based on USASTATE grouping.
